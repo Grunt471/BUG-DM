@@ -44,7 +44,7 @@ div#Tab a span {
   display: none;
   width: 600px;
   height: 500px;
-  z-index: 1;
+  z-index: 10;
   background-color: white;
 }
 
